@@ -1,0 +1,8 @@
+{
+    "name": "simple-angular",
+    "description": "A basic AngularJS integration for the Meteor platform",
+    "homepage": "https://github.com/luisrocha/angular4meteor",
+    "author": "Luis Rocha  (http://luisrocha.me)",
+    "version": "1.0.0",
+    "git": "https://github.com/luisrocha/angular4meteor.git"
+}
